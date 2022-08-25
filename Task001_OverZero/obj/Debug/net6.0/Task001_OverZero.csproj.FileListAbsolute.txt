@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\bin\Debug\net6.0\Task001_OverZero.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\bin\Debug\net6.0\Task001_OverZero.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\bin\Debug\net6.0\Task001_OverZero.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\bin\Debug\net6.0\Task001_OverZero.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\bin\Debug\net6.0\Task001_OverZero.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\obj\Debug\net6.0\Task001_OverZero.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\obj\Debug\net6.0\Task001_OverZero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\obj\Debug\net6.0\Task001_OverZero.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\obj\Debug\net6.0\Task001_OverZero.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\obj\Debug\net6.0\Task001_OverZero.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\obj\Debug\net6.0\Task001_OverZero.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\obj\Debug\net6.0\refint\Task001_OverZero.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\obj\Debug\net6.0\Task001_OverZero.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\obj\Debug\net6.0\Task001_OverZero.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4 hw\Task001_OverZero\obj\Debug\net6.0\ref\Task001_OverZero.dll
