@@ -17,7 +17,7 @@ int Prompt(string message)
 double[] ParseArray(string message)
 {
 Console.WriteLine(message);
-string[] nums = Console.ReadLine().Split(new char[] { '-' });
+string[] nums = Console.ReadLine().Split(new char[] { ';' });
 double[] intArray = new double[nums.Length];
 for (int i = 0; i < nums.Length; i++)
 {
