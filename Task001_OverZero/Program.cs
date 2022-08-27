@@ -76,7 +76,7 @@ int ArrPosValues(int[] array)
     return answer;
 }
 
-int[] array=ParseArray("enter array values: ");
+int[] array=ParseArray("enter comma separated array values: ");
 
 
 Console.WriteLine($"In your array there are {ArrPosValues(array)} positive elements. ");
